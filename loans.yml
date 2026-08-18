@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to YBank accounts related local APIs "
+  contactDetails:
+    name: "Yu Nandar Hlaing - Developer"
+    email: "kalucar37@gmail.com"
+  onCallSupport:
+    - (959) 400-903275

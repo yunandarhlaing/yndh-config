@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to YBank accounts related prod APIs "
+  contactDetails:
+    name: "Yu Nandar Hlaing - Product Owner"
+    email: "kalucar37@gmail.com"
+  onCallSupport:
+    - (959) 400-903275

@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to YBank cards related QA APIs "
+  contactDetails:
+    name: "Yu Nandar Hlaing - QA Head"
+    email: "kalucar37@gmail.com"
+  onCallSupport:
+    - (959) 400-903275
