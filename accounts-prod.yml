@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to YBank accounts related yndh APIs "
+  message: "Welcome to YBank accounts related webhook APIs "
   contactDetails:
     name: "Yu Nandar Hlaing - Product Owner"
     email: "{cipher}e1009149c6cf0422ce01859b69745f2d10d784b56c2b904f4f580564a93d9b7f187dbaf69231309b57a5eeed3755204a"
