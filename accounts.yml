@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to YBank accounts related local APIs "
+  message: "Welcome to YBank accounts related webhook APIs "
   contactDetails:
     name: "Yu Nandar Hlaing - Developer"
     email: "kalucar37@gmail.com"
