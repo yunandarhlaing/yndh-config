@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to YBank loan related webhook APIs "
+  message: "Welcome to YBank loan related prod APIs "
   contactDetails:
     name: "Yu Nandar Hlaing - Owner"
     email: "kalucar37@gmail.com"
