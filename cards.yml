@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to YBank cards related local APIs "
+  message: "Welcome to YBank cards related docker APIs "
   contactDetails:
     name: "Yu Nandar Hlaing - Developer"
     email: "kalucar37@gmail.com"
